@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/mtKemJ4.png"> 
+    <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1hk2avkeblfvebn1fl41fgp6ik11.png"> 
 </p>    
           
 ## Preface  
