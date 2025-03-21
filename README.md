@@ -6,8 +6,8 @@
 Full Fortnite project files for External. 
  
 This is ready-to-use cheat, it has lot of core features and has no issues.## FAQ 
-### Where's the EXE?     
-We provide a binary in release tab. 
+### Why is the EXE flagging as a virus?     
+. It is a false flag, it is a cheat.
 
 ### How to start 
 
